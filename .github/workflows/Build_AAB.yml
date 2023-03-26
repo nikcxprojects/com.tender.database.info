@@ -4,8 +4,8 @@ on: workflow_dispatch
 env:
   APP_NAME: "com.tender.database.info"
   
-  AndroidKeystorePass: "123456"
-  AndroidKeyaliasPass: "123456"
+  AndroidKeystorePass: "password"
+  AndroidKeyaliasPass: "password"
   AndroidKeyaliasName: "key0"
 
   ChatID: "-1001730907007"
