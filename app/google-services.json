@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924130794172",
+    "project_id": "tenders-database-a3d41",
+    "storage_bucket": "tenders-database-a3d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924130794172:android:82471b68c7d66d5d0f0eb9",
+        "android_client_info": {
+          "package_name": "com.tender.database.info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924130794172-cq59f00s45puki0oru6aprlhg7abdk7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXYX1qv7nIEqStAlUK3JeIlJROc4pQYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924130794172-cq59f00s45puki0oru6aprlhg7abdk7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
