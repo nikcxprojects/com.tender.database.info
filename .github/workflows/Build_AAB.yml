@@ -2,7 +2,7 @@ name: Build AAB
 on: workflow_dispatch
 
 env:
-  APP_NAME: "com.mixedup.win.wins"
+  APP_NAME: "com.tender.database.info"
   
   AndroidKeystorePass: "123456"
   AndroidKeyaliasPass: "123456"
